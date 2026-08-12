@@ -10,8 +10,14 @@ En la asignatura de Ingeniería de Software 1 he aprendido conceptos relacionado
 También he aprendido la importancia del control de versiones y el uso de Git y GitHub para gestionar proyectos, registrar cambios y mantener un historial del trabajo realizado.
 
 Contenido
+
 Prácticas de Ingeniería de Software
+
 Actividades académicas
+
 Documentos y evidencias
+
 Archivos PDF de trabajos realizados
+
 Historial de cambios mediante Git
+
