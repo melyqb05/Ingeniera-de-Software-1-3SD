@@ -1,6 +1,6 @@
 Ingeniería de Software 1
 
-Estante: Melany Del Rocio Quintana Bedor
+Estudiante: Melany Del Rocio Quintana Bedor
 Paralelo:3SD
 
 Descripción
